@@ -1,0 +1,522 @@
+[
+  {
+    "not3": ["JOHNNIEGROEPER0ASOM"],
+    "gender": true,
+    "surname": "HOFFBERG",
+    "name": "LUTHER",
+    "top3": [
+      "BLAKEMARKOSIAN0ASOM",
+      "MOSEHAYSON0ASOM",
+      "VERNONFRONDORF0ASOM"
+    ],
+    "id": "LUTHERHOFFBERG0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "not3": ["ROSALEEGLEASMAN1ASOF"],
+    "gender": true,
+    "surname": "GROEPER",
+    "name": "JOHNNIE",
+    "top3": [
+      "CLAUDFOLKERTH2ASOM",
+      "WALLACEBOTWIN0ASOM",
+      "TYRELLLABOON2ASOM"
+    ],
+    "id": "JOHNNIEGROEPER0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "not3": ["JESUSOLADIPO2ASOM"],
+    "gender": true,
+    "surname": "TANOUE",
+    "name": "LYLE",
+    "top3": [
+      "TYRONREADLING0ASOM",
+      "ANGELBAMBAUER0ASOM",
+      "ROSALEEGLEASMAN1ASOF"
+    ],
+    "id": "LYLETANOUE0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "not3": ["JASONSTACHELSKI0ASOM"],
+    "gender": true,
+    "surname": "READLING",
+    "name": "TYRON",
+    "top3": [
+      "LYLETANOUE0ASOM",
+      "BLAKEMARKOSIAN0ASOM",
+      "ANGELBAMBAUER0ASOM"
+    ],
+    "id": "TYRONREADLING0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "not3": [],
+    "gender": true,
+    "surname": "MARKOSIAN",
+    "name": "BLAKE",
+    "top3": [
+      "ROSALEEGLEASMAN1ASOF",
+      "TYRONREADLING0ASOM",
+      "MOSEHAYSON0ASOM"
+    ],
+    "id": "BLAKEMARKOSIAN0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "not3": [],
+    "gender": true,
+    "surname": "HAYSON",
+    "name": "MOSE",
+    "top3": [
+      "JASONSTACHELSKI0ASOM",
+      "BLAKEMARKOSIAN0ASOM",
+      "PERRYKAIS2ASOM"
+    ],
+    "id": "MOSEHAYSON0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "not3": ["TYRONREADLING0ASOM"],
+    "gender": true,
+    "surname": "STACHELSKI",
+    "name": "JASON",
+    "top3": [
+      "PERRYKAIS2ASOM",
+      "MOSEHAYSON0ASOM",
+      "WALLACEBOTWIN0ASOM"
+    ],
+    "id": "JASONSTACHELSKI0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "not3": ["ANGELBAMBAUER0ASOM"],
+    "gender": true,
+    "surname": "FRONDORF",
+    "name": "VERNON",
+    "top3": [
+      "ROSALEEGLEASMAN1ASOF",
+      "JASONSTACHELSKI0ASOM",
+      "TYRONREADLING0ASOM"
+    ],
+    "id": "VERNONFRONDORF0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "not3": ["ROSALEEGLEASMAN1ASOF"],
+    "gender": true,
+    "surname": "BOTWIN",
+    "name": "WALLACE",
+    "top3": [
+      "JASONSTACHELSKI0ASOM",
+      "JOHNNIEGROEPER0ASOM",
+      "ANGELBAMBAUER0ASOM"
+    ],
+    "id": "WALLACEBOTWIN0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "not3": ["MIGUELBAMBAUER2ASOM"],
+    "gender": true,
+    "surname": "BAMBAUER",
+    "name": "ANGEL",
+    "top3": [
+      "WALLACEBOTWIN0ASOM",
+      "LYLETANOUE0ASOM",
+      "VERNONFRONDORF0ASOM"
+    ],
+    "id": "ANGELBAMBAUER0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "not3": ["JOHNNIEGROEPER0ASOM"],
+    "gender": false,
+    "surname": "GLEASMAN",
+    "name": "ROSALEE",
+    "top3": [
+      "DANIELABERTOK1ASOF",
+      "MIMICUSHWA1ASOF",
+      "CATHRINEECKENFELS1ASOF"
+    ],
+    "id": "ROSALEEGLEASMAN1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "not3": ["ROSALEEGLEASMAN1ASOF"],
+    "gender": false,
+    "surname": "OWL",
+    "name": "CRISTY",
+    "top3": [
+      "BERNIECEMALENSEK3ASOF",
+      "TRINIDADNOELKER1ASOF",
+      "KERRIEIZSAK3ASOF"
+    ],
+    "id": "CRISTYOWL1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "not3": ["JESUSOLADIPO2ASOM"],
+    "gender": false,
+    "surname": "PLAGMANN",
+    "name": "LIZETTE",
+    "top3": [
+      "KAITLYNBURING1ASOF",
+      "MELLISSAOLEJAR1ASOF",
+      "CEDRICKBRAULICK2ASOM"
+    ],
+    "id": "LIZETTEPLAGMANN1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "not3": ["JASONSTACHELSKI0ASOM"],
+    "gender": false,
+    "surname": "BURING",
+    "name": "KAITLYN",
+    "top3": [
+      "LIZETTEPLAGMANN1ASOF",
+      "DANIELABERTOK1ASOF",
+      "MELLISSAOLEJAR1ASOF"
+    ],
+    "id": "KAITLYNBURING1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "not3": [],
+    "gender": false,
+    "surname": "BERTOK",
+    "name": "DANIELA",
+    "top3": [
+      "CEDRICKBRAULICK2ASOM",
+      "KAITLYNBURING1ASOF",
+      "MIMICUSHWA1ASOF"
+    ],
+    "id": "DANIELABERTOK1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "not3": [],
+    "gender": false,
+    "surname": "CUSHWA",
+    "name": "MIMI",
+    "top3": [
+      "CATHRINERAYNAK1ASOF",
+      "DANIELABERTOK1ASOF",
+      "CATHARINEFRISENDA3ASOF"
+    ],
+    "id": "MIMICUSHWA1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "not3": ["TYRONREADLING0ASOM"],
+    "gender": false,
+    "surname": "RAYNAK",
+    "name": "CATHRINE",
+    "top3": [
+      "CATHARINEFRISENDA3ASOF",
+      "MIMICUSHWA1ASOF",
+      "TRINIDADNOELKER1ASOF"
+    ],
+    "id": "CATHRINERAYNAK1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "not3": ["ANGELBAMBAUER0ASOM"],
+    "gender": false,
+    "surname": "ECKENFELS",
+    "name": "CATHRINE",
+    "top3": [
+      "CEDRICKBRAULICK2ASOM",
+      "CATHRINERAYNAK1ASOF",
+      "KAITLYNBURING1ASOF"
+    ],
+    "id": "CATHRINEECKENFELS1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "not3": ["ROSALEEGLEASMAN1ASOF"],
+    "gender": false,
+    "surname": "NOELKER",
+    "name": "TRINIDAD",
+    "top3": [
+      "CATHRINERAYNAK1ASOF",
+      "CRISTYOWL1ASOF",
+      "MELLISSAOLEJAR1ASOF"
+    ],
+    "id": "TRINIDADNOELKER1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "not3": ["MIGUELBAMBAUER2ASOM"],
+    "gender": false,
+    "surname": "OLEJAR",
+    "name": "MELLISSA",
+    "top3": [
+      "TRINIDADNOELKER1ASOF",
+      "LIZETTEPLAGMANN1ASOF",
+      "CATHRINEECKENFELS1ASOF"
+    ],
+    "id": "MELLISSAOLEJAR1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "not3": ["JOHNNIEGROEPER0ASOM"],
+    "gender": true,
+    "surname": "BRAULICK",
+    "name": "CEDRICK",
+    "top3": [
+      "KARLSTRATEMEYER2ASOM",
+      "TYRELLLABOON2ASOM",
+      "GIUSEPPEDLUGOPOLSKI2ASOM"
+    ],
+    "id": "CEDRICKBRAULICK2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "not3": ["ROSALEEGLEASMAN1ASOF"],
+    "gender": true,
+    "surname": "KAIS",
+    "name": "PERRY",
+    "top3": [
+      "JASONSTACHELSKI0ASOM",
+      "MILANLJUNGGREN2ASOM",
+      "MOSEHAYSON0ASOM"
+    ],
+    "id": "PERRYKAIS2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "not3": ["JESUSOLADIPO2ASOM"],
+    "gender": true,
+    "surname": "OLADIPO",
+    "name": "JESUS",
+    "top3": [
+      "GERARDMARTINEZGONZAL2ASOM",
+      "MIGUELBAMBAUER2ASOM",
+      "PEGGYCRESCIMANNO3ASOF"
+    ],
+    "id": "JESUSOLADIPO2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "not3": ["JASONSTACHELSKI0ASOM"],
+    "gender": true,
+    "surname": "MARTINEZGONZAL",
+    "name": "GERARD",
+    "top3": [
+      "JESUSOLADIPO2ASOM",
+      "KARLSTRATEMEYER2ASOM",
+      "MIGUELBAMBAUER2ASOM"
+    ],
+    "id": "GERARDMARTINEZGONZAL2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "not3": [],
+    "gender": true,
+    "surname": "STRATEMEYER",
+    "name": "KARL",
+    "top3": [
+      "PEGGYCRESCIMANNO3ASOF",
+      "GERARDMARTINEZGONZAL2ASOM",
+      "TYRELLLABOON2ASOM"
+    ],
+    "id": "KARLSTRATEMEYER2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "not3": [],
+    "gender": true,
+    "surname": "LABOON",
+    "name": "TYRELL",
+    "top3": [
+      "CLAUDFOLKERTH2ASOM",
+      "KARLSTRATEMEYER2ASOM",
+      "JOHNNIEGROEPER0ASOM"
+    ],
+    "id": "TYRELLLABOON2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "not3": ["TYRONREADLING0ASOM"],
+    "gender": true,
+    "surname": "FOLKERTH",
+    "name": "CLAUD",
+    "top3": [
+      "JOHNNIEGROEPER0ASOM",
+      "TYRELLLABOON2ASOM",
+      "MILANLJUNGGREN2ASOM"
+    ],
+    "id": "CLAUDFOLKERTH2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "not3": ["ANGELBAMBAUER0ASOM"],
+    "gender": true,
+    "surname": "DLUGOPOLSKI",
+    "name": "GIUSEPPE",
+    "top3": [
+      "PEGGYCRESCIMANNO3ASOF",
+      "CLAUDFOLKERTH2ASOM",
+      "GERARDMARTINEZGONZAL2ASOM"
+    ],
+    "id": "GIUSEPPEDLUGOPOLSKI2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "not3": ["ROSALEEGLEASMAN1ASOF"],
+    "gender": true,
+    "surname": "LJUNGGREN",
+    "name": "MILAN",
+    "top3": [
+      "CLAUDFOLKERTH2ASOM",
+      "PERRYKAIS2ASOM",
+      "MIGUELBAMBAUER2ASOM"
+    ],
+    "id": "MILANLJUNGGREN2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "not3": ["MIGUELBAMBAUER2ASOM"],
+    "gender": true,
+    "surname": "BAMBAUER",
+    "name": "MIGUEL",
+    "top3": [
+      "MILANLJUNGGREN2ASOM",
+      "JESUSOLADIPO2ASOM",
+      "GIUSEPPEDLUGOPOLSKI2ASOM"
+    ],
+    "id": "MIGUELBAMBAUER2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "not3": ["JOHNNIEGROEPER0ASOM"],
+    "gender": false,
+    "surname": "CRESCIMANNO",
+    "name": "PEGGY",
+    "top3": [
+      "MARLYNPIMLEY3ASOF",
+      "KERRIEIZSAK3ASOF",
+      "RAVENROTELLINI3ASOF"
+    ],
+    "id": "PEGGYCRESCIMANNO3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "not3": ["ROSALEEGLEASMAN1ASOF"],
+    "gender": false,
+    "surname": "FRISENDA",
+    "name": "CATHARINE",
+    "top3": [
+      "CATHRINERAYNAK1ASOF",
+      "FILOMENAVELTHOUSE3ASOF",
+      "MIMICUSHWA1ASOF"
+    ],
+    "id": "CATHARINEFRISENDA3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "not3": ["JESUSOLADIPO2ASOM"],
+    "gender": false,
+    "surname": "WARTLUFT",
+    "name": "SHELLIE",
+    "top3": [
+      "DINAHBIRTLES3ASOF",
+      "DANETTELONGHITANO3ASOF",
+      "LUTHERHOFFBERG0ASOM"
+    ],
+    "id": "SHELLIEWARTLUFT3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "not3": ["JASONSTACHELSKI0ASOM"],
+    "gender": false,
+    "surname": "BIRTLES",
+    "name": "DINAH",
+    "top3": [
+      "SHELLIEWARTLUFT3ASOF",
+      "MARLYNPIMLEY3ASOF",
+      "DANETTELONGHITANO3ASOF"
+    ],
+    "id": "DINAHBIRTLES3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "not3": [],
+    "gender": false,
+    "surname": "PIMLEY",
+    "name": "MARLYN",
+    "top3": [
+      "LUTHERHOFFBERG0ASOM",
+      "DINAHBIRTLES3ASOF",
+      "KERRIEIZSAK3ASOF"
+    ],
+    "id": "MARLYNPIMLEY3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "not3": [],
+    "gender": false,
+    "surname": "IZSAK",
+    "name": "KERRIE",
+    "top3": [
+      "BERNIECEMALENSEK3ASOF",
+      "MARLYNPIMLEY3ASOF",
+      "CRISTYOWL1ASOF"
+    ],
+    "id": "KERRIEIZSAK3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "not3": ["TYRONREADLING0ASOM"],
+    "gender": false,
+    "surname": "MALENSEK",
+    "name": "BERNIECE",
+    "top3": [
+      "CRISTYOWL1ASOF",
+      "KERRIEIZSAK3ASOF",
+      "FILOMENAVELTHOUSE3ASOF"
+    ],
+    "id": "BERNIECEMALENSEK3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "not3": ["ANGELBAMBAUER0ASOM"],
+    "gender": false,
+    "surname": "ROTELLINI",
+    "name": "RAVEN",
+    "top3": [
+      "LUTHERHOFFBERG0ASOM",
+      "BERNIECEMALENSEK3ASOF",
+      "DINAHBIRTLES3ASOF"
+    ],
+    "id": "RAVENROTELLINI3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "not3": ["ROSALEEGLEASMAN1ASOF"],
+    "gender": false,
+    "surname": "VELTHOUSE",
+    "name": "FILOMENA",
+    "top3": [
+      "BERNIECEMALENSEK3ASOF",
+      "CATHARINEFRISENDA3ASOF",
+      "DANETTELONGHITANO3ASOF"
+    ],
+    "id": "FILOMENAVELTHOUSE3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "not3": ["MIGUELBAMBAUER2ASOM"],
+    "gender": false,
+    "surname": "LONGHITANO",
+    "name": "DANETTE",
+    "top3": [
+      "FILOMENAVELTHOUSE3ASOF",
+      "SHELLIEWARTLUFT3ASOF",
+      "RAVENROTELLINI3ASOF"
+    ],
+    "id": "DANETTELONGHITANO3ASOF",
+    "class": "3ASO"
+  }
+]
