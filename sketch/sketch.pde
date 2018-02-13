@@ -66,9 +66,10 @@ void draw() {
   
   population.displayAll(500, 100);
 
-  text(population.mc, 20, height-60);
+  //text(population.mc, 20, height-60);
 
-  text("fps: " + int(frameRate), 20, height-20);
+  text("fps: " + int(frameRate), 20, height-40);
+  text("Time: " + nf(millis()/60000, 2) + ":" + nf(millis()/1000, 2), 20, height-20);
 }
 
 void mousePressed() {
