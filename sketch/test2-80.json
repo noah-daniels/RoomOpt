@@ -1,0 +1,1202 @@
+[
+  {
+    "subgroup": "GROUP0",
+    "not3": [],
+    "gender": true,
+    "surname": "KAMINE",
+    "og": "10a",
+    "name": "HERB",
+    "top3": [
+      "BRADLEYGOOT0ASOM",
+      "RAYFORDBACKMON0ASOM",
+      "OLIVERHOFFBERG4ASOM"
+    ],
+    "id": "HERBKAMINE0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["LONNIEHEBERLIE4ASOM"],
+    "gender": true,
+    "surname": "FIDELMAN",
+    "og": "1a",
+    "name": "GERALDO",
+    "top3": [
+      "DONGETAHUN0ASOM",
+      "LAWERENCEHALDORSON0ASOM",
+      "EVERETTMABIS0ASOM"
+    ],
+    "id": "GERALDOFIDELMAN0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["ELDRIDGEGOV0ASOM"],
+    "gender": true,
+    "surname": "GETAHUN",
+    "og": "2a",
+    "name": "DON",
+    "top3": [
+      "GERALDOFIDELMAN0ASOM",
+      "LAWERENCEHALDORSON0ASOM",
+      "MINHASKVIG4ASOM"
+    ],
+    "id": "DONGETAHUN0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["ELDRIDGEGOV0ASOM"],
+    "gender": true,
+    "surname": "HALDORSON",
+    "og": "3a",
+    "name": "LAWERENCE",
+    "top3": [
+      "GERALDOFIDELMAN0ASOM",
+      "DONGETAHUN0ASOM",
+      "LEONARDAPONE0ASOM"
+    ],
+    "id": "LAWERENCEHALDORSON0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": [],
+    "gender": true,
+    "surname": "APONE",
+    "og": "4a",
+    "name": "LEONARD",
+    "top3": [
+      "LAWERENCEHALDORSON0ASOM",
+      "EVERETTMABIS0ASOM",
+      "LENSIEDOW0ASOM"
+    ],
+    "id": "LEONARDAPONE0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["RAYFORDBACKMON0ASOM"],
+    "gender": true,
+    "surname": "MABIS",
+    "og": "5a",
+    "name": "EVERETT",
+    "top3": [
+      "GERALDOFIDELMAN0ASOM",
+      "LEONARDAPONE0ASOM",
+      "LENSIEDOW0ASOM"
+    ],
+    "id": "EVERETTMABIS0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["DONGETAHUN0ASOM"],
+    "gender": true,
+    "surname": "GOV",
+    "og": "6a",
+    "name": "ELDRIDGE",
+    "top3": [
+      "BRADLEYGOOT0ASOM",
+      "LENSIEDOW0ASOM",
+      "ALEXANDERBACKMON4ASOM"
+    ],
+    "id": "ELDRIDGEGOV0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["TERRANCEMALYSA4ASOM"],
+    "gender": true,
+    "surname": "GOOT",
+    "og": "7a",
+    "name": "BRADLEY",
+    "top3": [
+      "ELDRIDGEGOV0ASOM",
+      "RAYFORDBACKMON0ASOM",
+      "HERBKAMINE0ASOM"
+    ],
+    "id": "BRADLEYGOOT0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": [],
+    "gender": true,
+    "surname": "SIEDOW",
+    "og": "8a",
+    "name": "LEN",
+    "top3": [
+      "LEONARDAPONE0ASOM",
+      "EVERETTMABIS0ASOM",
+      "ELDRIDGEGOV0ASOM"
+    ],
+    "id": "LENSIEDOW0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["EVERETTMABIS0ASOM"],
+    "gender": true,
+    "surname": "BACKMON",
+    "og": "9a",
+    "name": "RAYFORD",
+    "top3": [
+      "BRADLEYGOOT0ASOM",
+      "HERBKAMINE0ASOM",
+      "RUBENCHEFFER4ASOM"
+    ],
+    "id": "RAYFORDBACKMON0ASOM",
+    "class": "0ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": [],
+    "gender": false,
+    "surname": "GHIGLIOTTY",
+    "og": "10a",
+    "name": "JULIANNA",
+    "top3": [
+      "SUNNYLEXVOLD1ASOF",
+      "FLORSCOPPA1ASOF",
+      "KARENSMALT5ASOF"
+    ],
+    "id": "JULIANNAGHIGLIOTTY1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["ALINACARBULLIDO5ASOF"],
+    "gender": false,
+    "surname": "CASASNOVAS",
+    "og": "1a",
+    "name": "TANA",
+    "top3": [
+      "KYLIEVINKLAREK1ASOF",
+      "LOUISNEUSCHWANGER1ASOF",
+      "KARONSTEINMULLER1ASOF"
+    ],
+    "id": "TANACASASNOVAS1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["MONIKABLENIS1ASOF"],
+    "gender": false,
+    "surname": "VINKLAREK",
+    "og": "2a",
+    "name": "KYLIE",
+    "top3": [
+      "TANACASASNOVAS1ASOF",
+      "LOUISNEUSCHWANGER1ASOF",
+      "MELVINAPLANCE5ASOF"
+    ],
+    "id": "KYLIEVINKLAREK1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["MONIKABLENIS1ASOF"],
+    "gender": false,
+    "surname": "NEUSCHWANGER",
+    "og": "3a",
+    "name": "LOUIS",
+    "top3": [
+      "TANACASASNOVAS1ASOF",
+      "KYLIEVINKLAREK1ASOF",
+      "VALENCIASECONDO1ASOF"
+    ],
+    "id": "LOUISNEUSCHWANGER1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": [],
+    "gender": false,
+    "surname": "SECONDO",
+    "og": "4a",
+    "name": "VALENCIA",
+    "top3": [
+      "LOUISNEUSCHWANGER1ASOF",
+      "KARONSTEINMULLER1ASOF",
+      "MOZELLEKUESPERT1ASOF"
+    ],
+    "id": "VALENCIASECONDO1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["FLORSCOPPA1ASOF"],
+    "gender": false,
+    "surname": "STEINMULLER",
+    "og": "5a",
+    "name": "KARON",
+    "top3": [
+      "TANACASASNOVAS1ASOF",
+      "VALENCIASECONDO1ASOF",
+      "MOZELLEKUESPERT1ASOF"
+    ],
+    "id": "KARONSTEINMULLER1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["KYLIEVINKLAREK1ASOF"],
+    "gender": false,
+    "surname": "BLENIS",
+    "og": "6a",
+    "name": "MONIKA",
+    "top3": [
+      "SUNNYLEXVOLD1ASOF",
+      "MOZELLEKUESPERT1ASOF",
+      "DESSIEFECKE5ASOF"
+    ],
+    "id": "MONIKABLENIS1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["NATHALIEHAMMANG5ASOF"],
+    "gender": false,
+    "surname": "LEXVOLD",
+    "og": "7a",
+    "name": "SUNNY",
+    "top3": [
+      "MONIKABLENIS1ASOF",
+      "FLORSCOPPA1ASOF",
+      "JULIANNAGHIGLIOTTY1ASOF"
+    ],
+    "id": "SUNNYLEXVOLD1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": [],
+    "gender": false,
+    "surname": "KUESPERT",
+    "og": "8a",
+    "name": "MOZELLE",
+    "top3": [
+      "VALENCIASECONDO1ASOF",
+      "KARONSTEINMULLER1ASOF",
+      "MONIKABLENIS1ASOF"
+    ],
+    "id": "MOZELLEKUESPERT1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["KARONSTEINMULLER1ASOF"],
+    "gender": false,
+    "surname": "SCOPPA",
+    "og": "9a",
+    "name": "FLOR",
+    "top3": [
+      "SUNNYLEXVOLD1ASOF",
+      "JULIANNAGHIGLIOTTY1ASOF",
+      "GAYEMEADES5ASOF"
+    ],
+    "id": "FLORSCOPPA1ASOF",
+    "class": "1ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": [],
+    "gender": true,
+    "surname": "MORTLEY",
+    "og": "10a",
+    "name": "GEORGE",
+    "top3": [
+      "KOREYSCOPPA2ASOM",
+      "RENALDORATES2ASOM",
+      "TIMOTHYYILMA6ASOM"
+    ],
+    "id": "GEORGEMORTLEY2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["NOBLEGREIMANN6ASOM"],
+    "gender": true,
+    "surname": "TERKELSEN",
+    "og": "1a",
+    "name": "LEIF",
+    "top3": [
+      "SALVADORPOWLEDGE2ASOM",
+      "WAYLONPRUSZYNSKI2ASOM",
+      "LENBLACKADAR2ASOM"
+    ],
+    "id": "LEIFTERKELSEN2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["BRYANSIEMBIDA2ASOM"],
+    "gender": true,
+    "surname": "POWLEDGE",
+    "og": "2a",
+    "name": "SALVADOR",
+    "top3": [
+      "LEIFTERKELSEN2ASOM",
+      "WAYLONPRUSZYNSKI2ASOM",
+      "CHRISTOPHERPLATHE6ASOM"
+    ],
+    "id": "SALVADORPOWLEDGE2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["BRYANSIEMBIDA2ASOM"],
+    "gender": true,
+    "surname": "PRUSZYNSKI",
+    "og": "3a",
+    "name": "WAYLON",
+    "top3": [
+      "LEIFTERKELSEN2ASOM",
+      "SALVADORPOWLEDGE2ASOM",
+      "CLIFFORDNAGUIT2ASOM"
+    ],
+    "id": "WAYLONPRUSZYNSKI2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": [],
+    "gender": true,
+    "surname": "NAGUIT",
+    "og": "4a",
+    "name": "CLIFFORD",
+    "top3": [
+      "WAYLONPRUSZYNSKI2ASOM",
+      "LENBLACKADAR2ASOM",
+      "JAMEYCRUMEL2ASOM"
+    ],
+    "id": "CLIFFORDNAGUIT2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["RENALDORATES2ASOM"],
+    "gender": true,
+    "surname": "BLACKADAR",
+    "og": "5a",
+    "name": "LEN",
+    "top3": [
+      "LEIFTERKELSEN2ASOM",
+      "CLIFFORDNAGUIT2ASOM",
+      "JAMEYCRUMEL2ASOM"
+    ],
+    "id": "LENBLACKADAR2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["SALVADORPOWLEDGE2ASOM"],
+    "gender": true,
+    "surname": "SIEMBIDA",
+    "og": "6a",
+    "name": "BRYAN",
+    "top3": [
+      "KOREYSCOPPA2ASOM",
+      "JAMEYCRUMEL2ASOM",
+      "ELLSWORTHSPARER6ASOM"
+    ],
+    "id": "BRYANSIEMBIDA2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["BRYANWEICKUM6ASOM"],
+    "gender": true,
+    "surname": "SCOPPA",
+    "og": "7a",
+    "name": "KOREY",
+    "top3": [
+      "BRYANSIEMBIDA2ASOM",
+      "RENALDORATES2ASOM",
+      "GEORGEMORTLEY2ASOM"
+    ],
+    "id": "KOREYSCOPPA2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": [],
+    "gender": true,
+    "surname": "CRUMEL",
+    "og": "8a",
+    "name": "JAMEY",
+    "top3": [
+      "CLIFFORDNAGUIT2ASOM",
+      "LENBLACKADAR2ASOM",
+      "BRYANSIEMBIDA2ASOM"
+    ],
+    "id": "JAMEYCRUMEL2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["LENBLACKADAR2ASOM"],
+    "gender": true,
+    "surname": "RATES",
+    "og": "9a",
+    "name": "RENALDO",
+    "top3": [
+      "KOREYSCOPPA2ASOM",
+      "GEORGEMORTLEY2ASOM",
+      "JEANHUMFELD6ASOM"
+    ],
+    "id": "RENALDORATES2ASOM",
+    "class": "2ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": [],
+    "gender": false,
+    "surname": "INSKIP",
+    "og": "10a",
+    "name": "ROSALBA",
+    "top3": [
+      "JACQULINECADREAU3ASOF",
+      "MARLYNKANTE3ASOF",
+      "MAGDAWOTRUBA7ASOF"
+    ],
+    "id": "ROSALBAINSKIP3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["HAZELPROIETTO7ASOF"],
+    "gender": false,
+    "surname": "COBANE",
+    "og": "1a",
+    "name": "JUNG",
+    "top3": [
+      "SHEILASCOPPA3ASOF",
+      "JANELMATUSZCZAK3ASOF",
+      "PAMALAJORIS3ASOF"
+    ],
+    "id": "JUNGCOBANE3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["JOEDESSALINES3ASOF"],
+    "gender": false,
+    "surname": "SCOPPA",
+    "og": "2a",
+    "name": "SHEILA",
+    "top3": [
+      "JUNGCOBANE3ASOF",
+      "JANELMATUSZCZAK3ASOF",
+      "YADIRAASSON7ASOF"
+    ],
+    "id": "SHEILASCOPPA3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["JOEDESSALINES3ASOF"],
+    "gender": false,
+    "surname": "MATUSZCZAK",
+    "og": "3a",
+    "name": "JANEL",
+    "top3": [
+      "JUNGCOBANE3ASOF",
+      "SHEILASCOPPA3ASOF",
+      "RITAMOGROVEJO3ASOF"
+    ],
+    "id": "JANELMATUSZCZAK3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": [],
+    "gender": false,
+    "surname": "MOGROVEJO",
+    "og": "4a",
+    "name": "RITA",
+    "top3": [
+      "JANELMATUSZCZAK3ASOF",
+      "PAMALAJORIS3ASOF",
+      "ALECIABISACCIA3ASOF"
+    ],
+    "id": "RITAMOGROVEJO3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["MARLYNKANTE3ASOF"],
+    "gender": false,
+    "surname": "JORIS",
+    "og": "5a",
+    "name": "PAMALA",
+    "top3": [
+      "JUNGCOBANE3ASOF",
+      "RITAMOGROVEJO3ASOF",
+      "ALECIABISACCIA3ASOF"
+    ],
+    "id": "PAMALAJORIS3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["SHEILASCOPPA3ASOF"],
+    "gender": false,
+    "surname": "DESSALINES",
+    "og": "6a",
+    "name": "JOE",
+    "top3": [
+      "JACQULINECADREAU3ASOF",
+      "ALECIABISACCIA3ASOF",
+      "NIKITAALBRECHTSEN7ASOF"
+    ],
+    "id": "JOEDESSALINES3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["MARIAHECKENFELS7ASOF"],
+    "gender": false,
+    "surname": "CADREAU",
+    "og": "7a",
+    "name": "JACQULINE",
+    "top3": [
+      "JOEDESSALINES3ASOF",
+      "MARLYNKANTE3ASOF",
+      "ROSALBAINSKIP3ASOF"
+    ],
+    "id": "JACQULINECADREAU3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": [],
+    "gender": false,
+    "surname": "BISACCIA",
+    "og": "8a",
+    "name": "ALECIA",
+    "top3": [
+      "RITAMOGROVEJO3ASOF",
+      "PAMALAJORIS3ASOF",
+      "JOEDESSALINES3ASOF"
+    ],
+    "id": "ALECIABISACCIA3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["PAMALAJORIS3ASOF"],
+    "gender": false,
+    "surname": "KANTE",
+    "og": "9a",
+    "name": "MARLYN",
+    "top3": [
+      "JACQULINECADREAU3ASOF",
+      "ROSALBAINSKIP3ASOF",
+      "ERNESTINACARBULLIDO7ASOF"
+    ],
+    "id": "MARLYNKANTE3ASOF",
+    "class": "3ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": [],
+    "gender": true,
+    "surname": "HOFFBERG",
+    "og": "10a",
+    "name": "OLIVER",
+    "top3": [
+      "TERRANCEMALYSA4ASOM",
+      "RUBENCHEFFER4ASOM",
+      "HERBKAMINE0ASOM"
+    ],
+    "id": "OLIVERHOFFBERG4ASOM",
+    "class": "4ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["GERALDOFIDELMAN0ASOM"],
+    "gender": true,
+    "surname": "HEBERLIE",
+    "og": "1a",
+    "name": "LONNIE",
+    "top3": [
+      "MINHASKVIG4ASOM",
+      "MICHALCOLLETTO4ASOM",
+      "BENTONBECHERT4ASOM"
+    ],
+    "id": "LONNIEHEBERLIE4ASOM",
+    "class": "4ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["ALEXANDERBACKMON4ASOM"],
+    "gender": true,
+    "surname": "ASKVIG",
+    "og": "2a",
+    "name": "MINH",
+    "top3": [
+      "LONNIEHEBERLIE4ASOM",
+      "MICHALCOLLETTO4ASOM",
+      "DONGETAHUN0ASOM"
+    ],
+    "id": "MINHASKVIG4ASOM",
+    "class": "4ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["ALEXANDERBACKMON4ASOM"],
+    "gender": true,
+    "surname": "COLLETTO",
+    "og": "3a",
+    "name": "MICHAL",
+    "top3": [
+      "LONNIEHEBERLIE4ASOM",
+      "MINHASKVIG4ASOM",
+      "OLIVERVONDEYLEN4ASOM"
+    ],
+    "id": "MICHALCOLLETTO4ASOM",
+    "class": "4ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": [],
+    "gender": true,
+    "surname": "VONDEYLEN",
+    "og": "4a",
+    "name": "OLIVER",
+    "top3": [
+      "MICHALCOLLETTO4ASOM",
+      "BENTONBECHERT4ASOM",
+      "TEDJASTROW4ASOM"
+    ],
+    "id": "OLIVERVONDEYLEN4ASOM",
+    "class": "4ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["RUBENCHEFFER4ASOM"],
+    "gender": true,
+    "surname": "BECHERT",
+    "og": "5a",
+    "name": "BENTON",
+    "top3": [
+      "LONNIEHEBERLIE4ASOM",
+      "OLIVERVONDEYLEN4ASOM",
+      "TEDJASTROW4ASOM"
+    ],
+    "id": "BENTONBECHERT4ASOM",
+    "class": "4ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["MINHASKVIG4ASOM"],
+    "gender": true,
+    "surname": "BACKMON",
+    "og": "6a",
+    "name": "ALEXANDER",
+    "top3": [
+      "TERRANCEMALYSA4ASOM",
+      "TEDJASTROW4ASOM",
+      "ELDRIDGEGOV0ASOM"
+    ],
+    "id": "ALEXANDERBACKMON4ASOM",
+    "class": "4ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["BRADLEYGOOT0ASOM"],
+    "gender": true,
+    "surname": "MALYSA",
+    "og": "7a",
+    "name": "TERRANCE",
+    "top3": [
+      "ALEXANDERBACKMON4ASOM",
+      "RUBENCHEFFER4ASOM",
+      "OLIVERHOFFBERG4ASOM"
+    ],
+    "id": "TERRANCEMALYSA4ASOM",
+    "class": "4ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": [],
+    "gender": true,
+    "surname": "JASTROW",
+    "og": "8a",
+    "name": "TED",
+    "top3": [
+      "OLIVERVONDEYLEN4ASOM",
+      "BENTONBECHERT4ASOM",
+      "ALEXANDERBACKMON4ASOM"
+    ],
+    "id": "TEDJASTROW4ASOM",
+    "class": "4ASO"
+  },
+  {
+    "subgroup": "GROUP0",
+    "not3": ["BENTONBECHERT4ASOM"],
+    "gender": true,
+    "surname": "CHEFFER",
+    "og": "9a",
+    "name": "RUBEN",
+    "top3": [
+      "TERRANCEMALYSA4ASOM",
+      "OLIVERHOFFBERG4ASOM",
+      "RAYFORDBACKMON0ASOM"
+    ],
+    "id": "RUBENCHEFFER4ASOM",
+    "class": "4ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": [],
+    "gender": false,
+    "surname": "SMALT",
+    "og": "10a",
+    "name": "KAREN",
+    "top3": [
+      "NATHALIEHAMMANG5ASOF",
+      "GAYEMEADES5ASOF",
+      "JULIANNAGHIGLIOTTY1ASOF"
+    ],
+    "id": "KARENSMALT5ASOF",
+    "class": "5ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["TANACASASNOVAS1ASOF"],
+    "gender": false,
+    "surname": "CARBULLIDO",
+    "og": "1a",
+    "name": "ALINA",
+    "top3": [
+      "MELVINAPLANCE5ASOF",
+      "ALENECALCIANO5ASOF",
+      "LORINESECONDO5ASOF"
+    ],
+    "id": "ALINACARBULLIDO5ASOF",
+    "class": "5ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["DESSIEFECKE5ASOF"],
+    "gender": false,
+    "surname": "PLANCE",
+    "og": "2a",
+    "name": "MELVINA",
+    "top3": [
+      "ALINACARBULLIDO5ASOF",
+      "ALENECALCIANO5ASOF",
+      "KYLIEVINKLAREK1ASOF"
+    ],
+    "id": "MELVINAPLANCE5ASOF",
+    "class": "5ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["DESSIEFECKE5ASOF"],
+    "gender": false,
+    "surname": "CALCIANO",
+    "og": "3a",
+    "name": "ALENE",
+    "top3": [
+      "ALINACARBULLIDO5ASOF",
+      "MELVINAPLANCE5ASOF",
+      "LEORAARABI5ASOF"
+    ],
+    "id": "ALENECALCIANO5ASOF",
+    "class": "5ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": [],
+    "gender": false,
+    "surname": "ARABI",
+    "og": "4a",
+    "name": "LEORA",
+    "top3": [
+      "ALENECALCIANO5ASOF",
+      "LORINESECONDO5ASOF",
+      "BETTINANORS5ASOF"
+    ],
+    "id": "LEORAARABI5ASOF",
+    "class": "5ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["GAYEMEADES5ASOF"],
+    "gender": false,
+    "surname": "SECONDO",
+    "og": "5a",
+    "name": "LORINE",
+    "top3": [
+      "ALINACARBULLIDO5ASOF",
+      "LEORAARABI5ASOF",
+      "BETTINANORS5ASOF"
+    ],
+    "id": "LORINESECONDO5ASOF",
+    "class": "5ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["MELVINAPLANCE5ASOF"],
+    "gender": false,
+    "surname": "FECKE",
+    "og": "6a",
+    "name": "DESSIE",
+    "top3": [
+      "NATHALIEHAMMANG5ASOF",
+      "BETTINANORS5ASOF",
+      "MONIKABLENIS1ASOF"
+    ],
+    "id": "DESSIEFECKE5ASOF",
+    "class": "5ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["SUNNYLEXVOLD1ASOF"],
+    "gender": false,
+    "surname": "HAMMANG",
+    "og": "7a",
+    "name": "NATHALIE",
+    "top3": [
+      "DESSIEFECKE5ASOF",
+      "GAYEMEADES5ASOF",
+      "KARENSMALT5ASOF"
+    ],
+    "id": "NATHALIEHAMMANG5ASOF",
+    "class": "5ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": [],
+    "gender": false,
+    "surname": "NORS",
+    "og": "8a",
+    "name": "BETTINA",
+    "top3": [
+      "LEORAARABI5ASOF",
+      "LORINESECONDO5ASOF",
+      "DESSIEFECKE5ASOF"
+    ],
+    "id": "BETTINANORS5ASOF",
+    "class": "5ASO"
+  },
+  {
+    "subgroup": "GROUP1",
+    "not3": ["LORINESECONDO5ASOF"],
+    "gender": false,
+    "surname": "MEADES",
+    "og": "9a",
+    "name": "GAYE",
+    "top3": [
+      "NATHALIEHAMMANG5ASOF",
+      "KARENSMALT5ASOF",
+      "FLORSCOPPA1ASOF"
+    ],
+    "id": "GAYEMEADES5ASOF",
+    "class": "5ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": [],
+    "gender": true,
+    "surname": "YILMA",
+    "og": "10a",
+    "name": "TIMOTHY",
+    "top3": [
+      "BRYANWEICKUM6ASOM",
+      "JEANHUMFELD6ASOM",
+      "GEORGEMORTLEY2ASOM"
+    ],
+    "id": "TIMOTHYYILMA6ASOM",
+    "class": "6ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["LEIFTERKELSEN2ASOM"],
+    "gender": true,
+    "surname": "GREIMANN",
+    "og": "1a",
+    "name": "NOBLE",
+    "top3": [
+      "CHRISTOPHERPLATHE6ASOM",
+      "FERNANDOBREIDEL6ASOM",
+      "WILLISBAUGESS6ASOM"
+    ],
+    "id": "NOBLEGREIMANN6ASOM",
+    "class": "6ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["ELLSWORTHSPARER6ASOM"],
+    "gender": true,
+    "surname": "PLATHE",
+    "og": "2a",
+    "name": "CHRISTOPHER",
+    "top3": [
+      "NOBLEGREIMANN6ASOM",
+      "FERNANDOBREIDEL6ASOM",
+      "SALVADORPOWLEDGE2ASOM"
+    ],
+    "id": "CHRISTOPHERPLATHE6ASOM",
+    "class": "6ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["ELLSWORTHSPARER6ASOM"],
+    "gender": true,
+    "surname": "BREIDEL",
+    "og": "3a",
+    "name": "FERNANDO",
+    "top3": [
+      "NOBLEGREIMANN6ASOM",
+      "CHRISTOPHERPLATHE6ASOM",
+      "KEENANMERCALDI6ASOM"
+    ],
+    "id": "FERNANDOBREIDEL6ASOM",
+    "class": "6ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": [],
+    "gender": true,
+    "surname": "MERCALDI",
+    "og": "4a",
+    "name": "KEENAN",
+    "top3": [
+      "FERNANDOBREIDEL6ASOM",
+      "WILLISBAUGESS6ASOM",
+      "ORLANDOTOWSLEE6ASOM"
+    ],
+    "id": "KEENANMERCALDI6ASOM",
+    "class": "6ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["JEANHUMFELD6ASOM"],
+    "gender": true,
+    "surname": "BAUGESS",
+    "og": "5a",
+    "name": "WILLIS",
+    "top3": [
+      "NOBLEGREIMANN6ASOM",
+      "KEENANMERCALDI6ASOM",
+      "ORLANDOTOWSLEE6ASOM"
+    ],
+    "id": "WILLISBAUGESS6ASOM",
+    "class": "6ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["CHRISTOPHERPLATHE6ASOM"],
+    "gender": true,
+    "surname": "SPARER",
+    "og": "6a",
+    "name": "ELLSWORTH",
+    "top3": [
+      "BRYANWEICKUM6ASOM",
+      "ORLANDOTOWSLEE6ASOM",
+      "BRYANSIEMBIDA2ASOM"
+    ],
+    "id": "ELLSWORTHSPARER6ASOM",
+    "class": "6ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["KOREYSCOPPA2ASOM"],
+    "gender": true,
+    "surname": "WEICKUM",
+    "og": "7a",
+    "name": "BRYAN",
+    "top3": [
+      "ELLSWORTHSPARER6ASOM",
+      "JEANHUMFELD6ASOM",
+      "TIMOTHYYILMA6ASOM"
+    ],
+    "id": "BRYANWEICKUM6ASOM",
+    "class": "6ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": [],
+    "gender": true,
+    "surname": "TOWSLEE",
+    "og": "8a",
+    "name": "ORLANDO",
+    "top3": [
+      "KEENANMERCALDI6ASOM",
+      "WILLISBAUGESS6ASOM",
+      "ELLSWORTHSPARER6ASOM"
+    ],
+    "id": "ORLANDOTOWSLEE6ASOM",
+    "class": "6ASO"
+  },
+  {
+    "subgroup": "GROUP2",
+    "not3": ["WILLISBAUGESS6ASOM"],
+    "gender": true,
+    "surname": "HUMFELD",
+    "og": "9a",
+    "name": "JEAN",
+    "top3": [
+      "BRYANWEICKUM6ASOM",
+      "TIMOTHYYILMA6ASOM",
+      "RENALDORATES2ASOM"
+    ],
+    "id": "JEANHUMFELD6ASOM",
+    "class": "6ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": [],
+    "gender": false,
+    "surname": "WOTRUBA",
+    "og": "10a",
+    "name": "MAGDA",
+    "top3": [
+      "MARIAHECKENFELS7ASOF",
+      "ERNESTINACARBULLIDO7ASOF",
+      "ROSALBAINSKIP3ASOF"
+    ],
+    "id": "MAGDAWOTRUBA7ASOF",
+    "class": "7ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["JUNGCOBANE3ASOF"],
+    "gender": false,
+    "surname": "PROIETTO",
+    "og": "1a",
+    "name": "HAZEL",
+    "top3": [
+      "YADIRAASSON7ASOF",
+      "ELYSEMYVETT7ASOF",
+      "LAURETTADECAPITE7ASOF"
+    ],
+    "id": "HAZELPROIETTO7ASOF",
+    "class": "7ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["NIKITAALBRECHTSEN7ASOF"],
+    "gender": false,
+    "surname": "ASSON",
+    "og": "2a",
+    "name": "YADIRA",
+    "top3": [
+      "HAZELPROIETTO7ASOF",
+      "ELYSEMYVETT7ASOF",
+      "SHEILASCOPPA3ASOF"
+    ],
+    "id": "YADIRAASSON7ASOF",
+    "class": "7ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["NIKITAALBRECHTSEN7ASOF"],
+    "gender": false,
+    "surname": "MYVETT",
+    "og": "3a",
+    "name": "ELYSE",
+    "top3": [
+      "HAZELPROIETTO7ASOF",
+      "YADIRAASSON7ASOF",
+      "PEARLINELIESTMAN7ASOF"
+    ],
+    "id": "ELYSEMYVETT7ASOF",
+    "class": "7ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": [],
+    "gender": false,
+    "surname": "LIESTMAN",
+    "og": "4a",
+    "name": "PEARLINE",
+    "top3": [
+      "ELYSEMYVETT7ASOF",
+      "LAURETTADECAPITE7ASOF",
+      "JENASIGH7ASOF"
+    ],
+    "id": "PEARLINELIESTMAN7ASOF",
+    "class": "7ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["ERNESTINACARBULLIDO7ASOF"],
+    "gender": false,
+    "surname": "DECAPITE",
+    "og": "5a",
+    "name": "LAURETTA",
+    "top3": [
+      "HAZELPROIETTO7ASOF",
+      "PEARLINELIESTMAN7ASOF",
+      "JENASIGH7ASOF"
+    ],
+    "id": "LAURETTADECAPITE7ASOF",
+    "class": "7ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["YADIRAASSON7ASOF"],
+    "gender": false,
+    "surname": "ALBRECHTSEN",
+    "og": "6a",
+    "name": "NIKITA",
+    "top3": [
+      "MARIAHECKENFELS7ASOF",
+      "JENASIGH7ASOF",
+      "JOEDESSALINES3ASOF"
+    ],
+    "id": "NIKITAALBRECHTSEN7ASOF",
+    "class": "7ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["JACQULINECADREAU3ASOF"],
+    "gender": false,
+    "surname": "ECKENFELS",
+    "og": "7a",
+    "name": "MARIAH",
+    "top3": [
+      "NIKITAALBRECHTSEN7ASOF",
+      "ERNESTINACARBULLIDO7ASOF",
+      "MAGDAWOTRUBA7ASOF"
+    ],
+    "id": "MARIAHECKENFELS7ASOF",
+    "class": "7ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": [],
+    "gender": false,
+    "surname": "SIGH",
+    "og": "8a",
+    "name": "JENA",
+    "top3": [
+      "PEARLINELIESTMAN7ASOF",
+      "LAURETTADECAPITE7ASOF",
+      "NIKITAALBRECHTSEN7ASOF"
+    ],
+    "id": "JENASIGH7ASOF",
+    "class": "7ASO"
+  },
+  {
+    "subgroup": "GROUP3",
+    "not3": ["LAURETTADECAPITE7ASOF"],
+    "gender": false,
+    "surname": "CARBULLIDO",
+    "og": "9a",
+    "name": "ERNESTINA",
+    "top3": [
+      "MARIAHECKENFELS7ASOF",
+      "MAGDAWOTRUBA7ASOF",
+      "MARLYNKANTE3ASOF"
+    ],
+    "id": "ERNESTINACARBULLIDO7ASOF",
+    "class": "7ASO"
+  }
+]
