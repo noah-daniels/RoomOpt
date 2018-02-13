@@ -69,21 +69,17 @@ void draw() {
   //text(population.mc, 20, height-60);
 
   text("fps: " + int(frameRate), 20, height-40);
-  text("Time: " + nf(millis()/60000, 2) + ":" + nf(millis()/1000, 2), 20, height-20);
+  text("Time: " + nf(millis()/60000, 2) + ":" + nf((millis()/1000)%60, 2), 20, height-20);
 }
 
-void mousePressed() {
-  population.newRandPop();
-  best = population.getBest();
-}
 
 void keyPressed() {
-  //n: (78) next generation
+  //n: (78) new population
   //m: (77) mutation overdrive
   //r: (82) don't render
 
   if (keyCode == 78) {
-    population.generateNew();
+    population.newRandPop();
     best = population.getBest();
   }
   if (keyCode == 77) {
